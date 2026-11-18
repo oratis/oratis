@@ -2,7 +2,7 @@
 
 **[Résumé / 简历 / 職務経歴書](https://oratis.github.io/)** · [English](https://oratis.github.io/en/) · [日本語](https://oratis.github.io/ja/)
 
-Co-founder of 心影随形, building AI companions, video ecosystems and open-source tools.
+Co-founder of HakkoAI/DoudouAI, building AI companions, video ecosystems and open-source tools.
 
 **Featured projects:** [LISA](https://meetlisa.ai/) · [TakoAPI](https://takoapi.com/) · [GPTwiki](https://gptwiki.net/) · [Markup](https://github.com/oratis/Markup) · [DeepCode](https://github.com/oratis/deepcode)
 
