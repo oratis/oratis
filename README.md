@@ -1,6 +1,6 @@
 ### Hi, I'm oratis 👋
 
-**[Résumé / 简历 / 職務経歴書](https://oratis.github.io/)** · [English](https://oratis.github.io/en/) · [日本語](https://oratis.github.io/ja/)
+**[About me](https://oratis.github.io/)** · [English](https://oratis.github.io/en/) · [日本語](https://oratis.github.io/ja/)
 
 Co-founder of HakkoAI/DoudouAI, building AI companions, video ecosystems and open-source tools.
 
@@ -13,5 +13,3 @@ Independent AI researcher building **[LISA](https://meetlisa.ai)** — a self-ev
 - Researching long-horizon coherence in autonomous agents.
 
 <sub>🌐 [meetlisa.ai](https://meetlisa.ai) · built in the open</sub>
-
-![oratis's GitHub stats](https://github-readme-stats.vercel.app/api?username=oratis&show_icons=true&hide_border=true&count_private=true)
